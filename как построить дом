@@ -1,0 +1,826 @@
+
+<!-- HTML -->
+<h3>Whole Page</h3>
+<p>This example has a background image applied to the <code>body</code> element.</p>
+
+</body>
+</html>
+<html lang="ru-RU">
+<head>
+	<title>Строим дом своими руками и поэтапный показ строительства</title>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<meta name="description" content="Постройка дома своими руками. Поэтапная инструкция по технологии строительства и правила выбора материала самостоятельно."/>
+<link rel="canonical" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Строим дом своими руками и поэтапный показ строительства" />
+<meta property="og:description" content="Постройка дома своими руками. Поэтапная инструкция по технологии строительства и правила выбора материала самостоятельно." />
+<meta property="og:url" content="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html" />
+<meta property="og:site_name" content="Строительство и ремонт частных домов и коттеджей своими руками" />
+<meta property="article:tag" content="Инструкции" />
+<meta property="article:section" content="Деревянные дома" />
+<meta property="article:published_time" content="2016-11-23T16:51:20+00:00" />
+<meta property="article:modified_time" content="2016-11-26T13:09:48+00:00" />
+<meta property="og:updated_time" content="2016-11-26T13:09:48+00:00" />
+<meta property="og:image" content="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122.jpg" />
+<meta property="og:image:secure_url" content="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="525" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Постройка дома своими руками. Поэтапная инструкция по технологии строительства и правила выбора материала самостоятельно." />
+<meta name="twitter:title" content="Строим дом своими руками и поэтапный показ строительства" />
+<meta name="twitter:image" content="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://kakpostroitdomic.ru/#website","url":"https://kakpostroitdomic.ru/","name":"\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0438 \u0440\u0435\u043c\u043e\u043d\u0442 \u0447\u0430\u0441\u0442\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0432 \u0438 \u043a\u043e\u0442\u0442\u0435\u0434\u0436\u0435\u0439 \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438","publisher":{"@id":"https://kakpostroitdomic.ru/#/schema/person/e3c455d7fc038845be6875aaed70485a"},"potentialAction":{"@type":"SearchAction","target":"https://kakpostroitdomic.ru/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#primaryimage","url":"https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122.jpg","width":700,"height":525,"caption":"\u0441\u0442\u0440\u043e\u0438\u043c \u0434\u043e\u043c \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438 \u043f\u043e\u044d\u0442\u0430\u043f\u043d\u044b\u0439 \u043f\u043e\u043a\u0430\u0437 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430"},{"@type":"WebPage","@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#webpage","url":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html","inLanguage":"ru-RU","name":"\u0421\u0442\u0440\u043e\u0438\u043c \u0434\u043e\u043c \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438 \u0438 \u043f\u043e\u044d\u0442\u0430\u043f\u043d\u044b\u0439 \u043f\u043e\u043a\u0430\u0437 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430","isPartOf":{"@id":"https://kakpostroitdomic.ru/#website"},"primaryImageOfPage":{"@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#primaryimage"},"datePublished":"2016-11-23T16:51:20+00:00","dateModified":"2016-11-26T13:09:48+00:00","description":"\u041f\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438. \u041f\u043e\u044d\u0442\u0430\u043f\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u043f\u043e \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0432\u044b\u0431\u043e\u0440\u0430 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430 \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e.","breadcrumb":{"@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://kakpostroitdomic.ru/","url":"https://kakpostroitdomic.ru/","name":"KakPostroitDomic.ru"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://kakpostroitdomic.ru/stroitelstvo","url":"https://kakpostroitdomic.ru/stroitelstvo","name":"\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e\u043c\u043e\u0432"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye","url":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye","name":"\u0414\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u044b\u0435 \u0434\u043e\u043c\u0430"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html","url":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html","name":"\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438: \u043f\u043e\u044d\u0442\u0430\u043f\u043d\u044b\u0439 \u043f\u043e\u043a\u0430\u0437"}}]},{"@type":"Article","@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#article","isPartOf":{"@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#webpage"},"author":{"@id":"https://kakpostroitdomic.ru/#/schema/person/98f95b8f920d2ee27888573369efba96"},"headline":"\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0438\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438: \u043f\u043e\u044d\u0442\u0430\u043f\u043d\u044b\u0439 \u043f\u043e\u043a\u0430\u0437","datePublished":"2016-11-23T16:51:20+00:00","dateModified":"2016-11-26T13:09:48+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#webpage"},"publisher":{"@id":"https://kakpostroitdomic.ru/#/schema/person/e3c455d7fc038845be6875aaed70485a"},"image":{"@id":"https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html#primaryimage"},"keywords":"\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438","articleSection":"\u0414\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u044b\u0435 \u0434\u043e\u043c\u0430,\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e\u043c\u043e\u0432"},{"@type":["Person"],"@id":"https://kakpostroitdomic.ru/#/schema/person/98f95b8f920d2ee27888573369efba96","name":"glav-user","image":{"@type":"ImageObject","@id":"https://kakpostroitdomic.ru/#authorlogo","url":"https://secure.gravatar.com/avatar/e6e701205ac11e3285d1502a15ba7b08?s=96&d=mm&r=g","caption":"glav-user"},"sameAs":[]}]}</script>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://kakpostroitdomic.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-autors_webnavoz-css'  href='https://kakpostroitdomic.ru/wp-content/plugins/autors-by-webnavoz/css/autors-style.css?1_702&#038;ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://kakpostroitdomic.ru/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='multiperelink_css-css'  href='https://kakpostroitdomic.ru/wp-content/plugins/multi-perelink/css/multi-perelink.css?ver=180428-161100' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.86.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-scroll-top-css'  href='https://kakpostroitdomic.ru/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,600,700&#038;subset=cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='style.css-css'  href='https://kakpostroitdomic.ru/wp-content/themes/sreda-design-nocat/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://kakpostroitdomic.ru/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ai_front = {"wp_ai":"5.2.2+2.4.22","insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR","visible":"VISIBLE","hidden":"HIDDEN"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/ad-inserter-pro/includes/js/ai-jquery.js?ver=5.2.2+2.4.22'></script>
+<script type='text/javascript'>
+function ai_insert(a,f,h){var e=-1!=f.indexOf(":eq")?jQuery(f):document.querySelectorAll(f);Array.prototype.forEach.call(e,function(b,e){selector_string=b.hasAttribute("id")?"#"+b.getAttribute("id"):b.hasAttribute("class")?"."+b.getAttribute("class").replace(RegExp(" ","g"),"."):"";var d=document.createElement("div");d.innerHTML=h;var c=d.getElementsByClassName("ai-selector-counter")[0];null!=c&&(c.innerText=e+1);c=d.getElementsByClassName("ai-debug-name ai-main")[0];if(null!=c){var g="";"before"==
+a?g=ai_front.insertion_before:"after"==a?g=ai_front.insertion_after:"prepend"==a?g=ai_front.insertion_prepend:"append"==a?g=ai_front.insertion_append:"replace-content"==a?g=ai_front.insertion_replace_content:"replace-element"==a&&(g=ai_front.insertion_replace_element);c.innerText=g+" "+f+" ("+b.tagName.toLowerCase()+selector_string+")"}c=document.createRange().createContextualFragment(d.innerHTML);"before"==a?b.parentNode.insertBefore(c,b):"after"==a?b.parentNode.insertBefore(c,b.nextSibling):"prepend"==
+a?b.insertBefore(c,b.firstChild):"append"==a?b.insertBefore(c,null):"replace-content"==a?b.innerHTML=d.innerHTML:"replace-element"==a&&(b.parentNode.insertBefore(c,b),b.parentNode.removeChild(b))})}
+function ai_insert_code(a){function f(a,b){return null==a?!1:a.classList?a.classList.contains(b):-1<(" "+a.className+" ").indexOf(" "+b+" ")}function h(a,b){null!=a&&(a.classList?a.classList.add(b):a.className+=" "+b)}function e(a,b){null!=a&&(a.classList?a.classList.remove(b):a.className=a.className.replace(new RegExp("(^|\\b)"+b.split(" ").join("|")+"(\\b|$)","gi")," "))}var b=!!(a.offsetWidth||a.offsetHeight||a.getClientRects().length);a.getAttribute("data-block");if(b){b=a.getAttribute("data-code");
+var k=a.getAttribute("data-insertion"),d=a.getAttribute("data-selector");null!=b&&(null!=k&&null!=d?document.querySelectorAll(d).length&&(ai_insert(k,d,b64d(b)),e(a,"ai-viewports")):(b=document.createRange().createContextualFragment(b64d(b)),a.parentNode.insertBefore(b,a.nextSibling),e(a,"ai-viewports")))}else b=a.previousElementSibling,f(b,"ai-debug-bar")&&f(b,"ai-debug-script")&&(e(b,"ai-debug-script"),h(b,"ai-debug-viewport-invisible")),e(a,"ai-viewports")}
+function b64e(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(a,h){return String.fromCharCode("0x"+h)}))}function b64d(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+</script>
+<style>.pseudo-clearfy-link { color: #008acf; cursor: pointer;}.pseudo-clearfy-link:hover { text-decoration: none;}</style><link rel="icon" href="https://kakpostroitdomic.ru/wp-content/uploads/2018/07/cropped-favicon-1-32x32.gif" sizes="32x32" />
+<link rel="icon" href="https://kakpostroitdomic.ru/wp-content/uploads/2018/07/cropped-favicon-1-192x192.gif" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://kakpostroitdomic.ru/wp-content/uploads/2018/07/cropped-favicon-1-180x180.gif" />
+<meta name="msapplication-TileImage" content="https://kakpostroitdomic.ru/wp-content/uploads/2018/07/cropped-favicon-1-270x270.gif" />
+<style type='text/css'>
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+		<style>
+.post blockquote:before {
+	background-image: url(https://kakpostroitdomic.ru/wp-content/uploads/2018/12/i.jpg);
+}
+	</style>
+    <script type="text/javascript" src="https://vk.com/js/api/openapi.js?160"></script>
+    <script type="text/javascript">
+        VK.init({apiId: 5776555, onlyWidgets: true});
+    </script>
+<!--    <script async src="https://pushprofit.ru/scripts/930/405abedc73e92fdf73ed01eb06a4db5840349649.js"></script>-->
+</head>
+
+<body>
+
+<div class="container">
+<div class="wrapper">
+
+	<header class="header">
+
+		<div class="header__top">
+
+					<a class="header__logo" href="https://kakpostroitdomic.ru/">
+		<div class="header__logo-image"><img src="https://kakpostroitdomic.ru/wp-content/uploads/2018/12/i.jpg" alt="" /></div>
+		<div class="header__logo-title">KakPostroit<span>domic.ru</span></div>
+		<div class="header__logo-desc">Экспертное сообщество по строительству и ремонту домов</div>
+		</a>
+		
+										<div class="header__popular">
+				<div class="header__popular-headline">Популярное</div>
+				<div class="header__popular-title"><a href="https://kakpostroitdomic.ru/vnutrennyaya-otdelka/potolki/vidy-potolkov/diffuzor-potolochnyy.html">Вентиляционные решетки и монтаж потолочного диффузора в ванной</a></div>
+			</div><!-- .header__popular -->
+					
+			<form class="search" method="get" action="https://kakpostroitdomic.ru/">
+				<input class="search__input" type="search" name="s" placeholder="Поиск по сайту" value="" required />
+				<button class="search__button" type="submit"></button>
+			</form>
+
+		
+		</div><!-- .header__top -->
+
+		<button class="header__menu-toggle" type="button"></button>
+		<div class="header__menu">
+			
+					<nav class="header__nav-2"><ul><li id="menu-item-7455" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-7455"><a title="Строительство домов" href="https://kakpostroitdomic.ru/stroitelstvo"><div class="header__nav-2-link">Строительство домов</div></a>
+<ul class="sub-menu">
+	<li id="menu-item-7456" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-7456"><a title="Деревянные дома" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye"><div class="header__nav-2-link">Деревянные дома</div></a></li>
+	<li id="menu-item-7457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7457"><a title="Дома из бревна" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/doma-iz-brevna"><div class="header__nav-2-link">Дома из бревна</div></a></li>
+	<li id="menu-item-7458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7458"><a title="Дома из бруса" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/doma-iz-brusa"><div class="header__nav-2-link">Дома из бруса</div></a></li>
+	<li id="menu-item-7459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7459"><a title="Каркасные дома" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/karkasnye-doma"><div class="header__nav-2-link">Каркасные дома</div></a></li>
+	<li id="menu-item-7460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7460"><a title="Дома из блоков и другие виды" href="https://kakpostroitdomic.ru/stroitelstvo/bloki"><div class="header__nav-2-link">Дома из блоков и другие виды</div></a></li>
+	<li id="menu-item-7461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7461"><a title="Дома из газо- и пеноблоков" href="https://kakpostroitdomic.ru/stroitelstvo/bloki/gazopeno-bloki"><div class="header__nav-2-link">Дома из газо- и пеноблоков</div></a></li>
+	<li id="menu-item-7462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7462"><a title="Дома из кирпича" href="https://kakpostroitdomic.ru/stroitelstvo/bloki/doma-iz-kirpicha"><div class="header__nav-2-link">Дома из кирпича</div></a></li>
+	<li id="menu-item-7463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7463"><a title="Дома из СИП панелей" href="https://kakpostroitdomic.ru/stroitelstvo/bloki/sip"><div class="header__nav-2-link">Дома из СИП панелей</div></a></li>
+	<li id="menu-item-7464" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7464"><a title="Монолит и другие виды домов" href="https://kakpostroitdomic.ru/stroitelstvo/bloki/drugie-vidy"><div class="header__nav-2-link">Монолит и другие виды домов</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7440"><a title="Проекты домов" href="https://kakpostroitdomic.ru/proekty"><div class="header__nav-2-link">Проекты</div></a>
+<ul class="sub-menu">
+	<li id="menu-item-7441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7441"><a title="Двухэтажные дома" href="https://kakpostroitdomic.ru/proekty/dvuxetazhnye-doma"><div class="header__nav-2-link">Двухэтажные дома</div></a></li>
+	<li id="menu-item-7442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7442"><a title="Коттеджи" href="https://kakpostroitdomic.ru/proekty/kottedzhi"><div class="header__nav-2-link">Коттеджи</div></a></li>
+	<li id="menu-item-7443" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7443"><a title="Одноэтажные дома" href="https://kakpostroitdomic.ru/proekty/odnoetazhnye-doma"><div class="header__nav-2-link">Одноэтажные дома</div></a></li>
+	<li id="menu-item-7444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7444"><a title="Стили" href="https://kakpostroitdomic.ru/proekty/stili"><div class="header__nav-2-link">Стили</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7466"><a title="Фундамент" href="https://kakpostroitdomic.ru/fundament"><div class="header__nav-2-link">Фундамент</div></a>
+<ul class="sub-menu">
+	<li id="menu-item-7467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7467"><a title="Ленточный фундамент" href="https://kakpostroitdomic.ru/fundament/lentochnyj-fundament"><div class="header__nav-2-link">Ленточный фундамент</div></a></li>
+	<li id="menu-item-7468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7468"><a title="Монолитный фундамент" href="https://kakpostroitdomic.ru/fundament/monolitnyj-fundament"><div class="header__nav-2-link">Монолитный фундамент</div></a></li>
+	<li id="menu-item-7469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7469"><a title="Плитный (плавающий) фундамент" href="https://kakpostroitdomic.ru/fundament/plitnyj-plavayushhij-fundament"><div class="header__nav-2-link">Плитный (плавающий) фундамент</div></a></li>
+	<li id="menu-item-7470" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7470"><a title="Свайный фундамент" href="https://kakpostroitdomic.ru/fundament/svajnyj-fundament"><div class="header__nav-2-link">Свайный фундамент</div></a></li>
+	<li id="menu-item-7471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7471"><a title="Столбчатый фундамент" href="https://kakpostroitdomic.ru/fundament/stolbchatyj-fundament"><div class="header__nav-2-link">Столбчатый фундамент</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7445"><a title="Строительные материалы" href="https://kakpostroitdomic.ru/stroitelnye-materialy"><div class="header__nav-2-link">Строительные материалы</div></a>
+<ul class="sub-menu">
+	<li id="menu-item-7446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7446"><a title="Блок-хаус" href="https://kakpostroitdomic.ru/stroitelnye-materialy/blok-xaus"><div class="header__nav-2-link">Блок-хаус</div></a></li>
+	<li id="menu-item-7447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7447"><a title="Блоки" href="https://kakpostroitdomic.ru/stroitelnye-materialy/bloki-stroitelnye-materialy"><div class="header__nav-2-link">Блоки</div></a></li>
+	<li id="menu-item-7448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7448"><a title="Дерево" href="https://kakpostroitdomic.ru/stroitelnye-materialy/derevo"><div class="header__nav-2-link">Дерево</div></a></li>
+	<li id="menu-item-7449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7449"><a title="Камень" href="https://kakpostroitdomic.ru/stroitelnye-materialy/kamen"><div class="header__nav-2-link">Камень</div></a></li>
+	<li id="menu-item-7450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7450"><a title="Кирпич" href="https://kakpostroitdomic.ru/stroitelnye-materialy/kirpich"><div class="header__nav-2-link">Кирпич</div></a></li>
+	<li id="menu-item-7451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7451"><a title="Сайдинг" href="https://kakpostroitdomic.ru/stroitelnye-materialy/sajding"><div class="header__nav-2-link">Сайдинг</div></a></li>
+	<li id="menu-item-7452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7452"><a title="Сваи" href="https://kakpostroitdomic.ru/stroitelnye-materialy/svai"><div class="header__nav-2-link">Сваи</div></a></li>
+	<li id="menu-item-7453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7453"><a title="Утеплитель" href="https://kakpostroitdomic.ru/stroitelnye-materialy/uteplitel"><div class="header__nav-2-link">Утеплитель</div></a></li>
+	<li id="menu-item-7454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7454"><a title="Фасадные панели" href="https://kakpostroitdomic.ru/stroitelnye-materialy/fasadnye-paneli"><div class="header__nav-2-link">Фасадные панели</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7465"><a title="Технологии строительства" href="https://kakpostroitdomic.ru/texnologii-stroitelstva"><div class="header__nav-2-link">Технологии</div></a></li>
+<li id="menu-item-7438" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7438"><a title="Проектная документация" href="https://kakpostroitdomic.ru/proektnaya-dokumentaciya"><div class="header__nav-2-link">Документация</div></a>
+<ul class="sub-menu">
+	<li id="menu-item-7439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7439"><a title="Смета и расчет" href="https://kakpostroitdomic.ru/proektnaya-dokumentaciya/smeta-i-raschet"><div class="header__nav-2-link">Смета и расчет</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7911" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7911"><a title="Внутренняя отделка дома" href="https://kakpostroitdomic.ru/vnutrennyaya-otdelka"><div class="header__nav-2-link">Отделка</div></a>
+<ul class="sub-menu">
+	<li id="menu-item-7896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7896"><a title="Потолки" href="https://kakpostroitdomic.ru/vnutrennyaya-otdelka/potolki"><div class="header__nav-2-link">Потолки</div></a></li>
+</ul>
+</li>
+</ul></nav>
+							
+					<nav class="header__nav-1"><ul><li id="menu-item-8074" class="alertcalc menu-item menu-item-type-post_type menu-item-object-page menu-item-8074"><a title="Калькулятор ленточного фундамента" href="https://kakpostroitdomic.ru/online-kalkulyator-lentochnogo-fundamenta">Калькулятор фундамента</a></li>
+</ul></nav>
+						</div><!-- .header__menu -->
+
+	</header><!-- .header -->
+<div class="middle">
+			<main class="content">
+			<div class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://kakpostroitdomic.ru/" itemprop="item" class="home"><span itemprop="name">Главная</span></a></span> <span class="sep">›</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://kakpostroitdomic.ru/stroitelstvo" itemprop="item"><span itemprop="name">Строительство домов</span></a></span> <span class="sep">›</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye" itemprop="item"><span itemprop="name">Деревянные дома</span></a></span></div><!-- .breadcrumbs -->						
+			<article class="post">
+				<h1 class="post__headline">Строительство дома своими руками: поэтапный показ</h1>
+				<div class="post__entry">
+					<index><p>Если вы решили выполнить строительство дома своими руками, то на каждом этапе у вас может возникнуть множество вопросов, ответы на которые вы сможете найти в нашей статье. Для частного застройщика, решившего вести все работы своими руками, важно не только понимать последовательность работ и знать тонкости их выполнения, но и правильно определиться с выбором материалов, конструкцией стен и типом основания. Если вы будете возводить свой дом самостоятельно, то выбирайте несложный проект, простой конфигурации в плане и с обычной двускатной крышей. Такую постройку намного проще возвести своими руками, кроме этого вы сможете сэкономить на материалах. Из нашей статьи вы узнаете о строительстве дома от А до Я.</p>
+<div class="toc-wrapper"><div class="toc-item"><!--noindex--><div id="toc_container" class="no_bullets"><ul class="toc_list"><li><a href="#i">Тонкости выбора материалов</a></li><li><a href="#i-2">Посадка на участке</a></li><li><a href="#i-3">Возведение фундамента</a></li><li><a href="#i-4">Обустройство каркасной конструкции стен</a></li><li><a href="#i-5">Монтаж крыши</a></li><li><a href="#i-6">Монтаж пола</a></li></ul></div><!--/noindex--></div><!-- .toc-item --></div><!-- .toc-wrapper -->
+<h2  id="i">Тонкости выбора материалов</h2>
+<div id="attachment_3056" class="wp-caption aligncenter" style="max-width: 700px;"><img class="wp-image-3056 size-full" title="Проще всего вести строительство дома в одиночку с использованием древесины в качестве материала стен" src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122.jpg" alt="строим дом своими руками поэтапный показ строительства" width="700" height="525" srcset="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122.jpg 700w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122-400x300.jpg 400w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122-300x225.jpg 300w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122-196x147.jpg 196w" sizes="(max-width: 700px) 100vw, 700px"><div class="wp-caption-text">Проще всего вести строительство дома в одиночку с использованием древесины в качестве материала стен</div></div>
+<p>Если вы решили самостоятельно построить дом от фундамента до крыши, то до того как вы определитесь с планировкой, вам стоит решить из чего вы будете делать стены, поскольку это может отразиться на планировочном решении и проекте в целом.</p>
+<p>Жилой дом может строиться из следующих материалов:</p>
+<ol>
+<li>Проще всего вести строительство дома в одиночку с использованием древесины в качестве материала стен. Этот экологически чистый материал отличается простотой и удобством обработки, он легко монтируется и стоит относительно недорого. Дом, сделанный из древесины, имеет оптимальный микроклимат для жизни человека. Материал регулирует влажность в помещении, насыщает воздух полезными фитонцидами. Сделать деревянный дом можно из листовых материалов, используя каркасную технологию, из бруса или брёвен. Единственный недостаток таких домов – подверженность древесины горению, гнили и порче насекомыми. Чтобы защитить материал, его обрабатывают специальными пропитками.</li>
+<li>Более прочным и долговечным получится дом, построенный из кирпича. Зная правила выполнения кирпичной кладки, вы сможете соорудить такую постройку самостоятельно. Однако стоит учитывать, что кирпич обладает большей теплопроводностью, чем древесина, поэтому стены будут более толстые и нуждаются в дополнительном утеплении.</li>
+<li>Каждый частный застройщик, построивший хоть какое-то сооружение из кирпича, без труда справится с выполнением кладки из газоблоков. Однако скорость возведения такой постройки намного выше, чем выполнение кладки из кирпича. Помимо этого газобетон имеет низкую теплопроводность, поэтому толщина стен может быть уменьшена на треть в сравнении с кирпичом. Также выше и звукоизоляционные качества газобетона. Единственный недостаток – гигроскопичность материала, поэтому фасад нуждается в отделке, защищающей его от влаги.</li>
+</ol>
+<blockquote class="blocquoteYel"><p>Важно: если мы строим дом сами, то очень важен вес стенового материала. Так, более лёгкие газоблоки намного выгодней использовать, чем тяжёлый кирпич. Вы сможете сэкономить на транспортировке материала и обустройстве более лёгкого фундамента.</p></blockquote>
+<p>Даже если мы строим дом своими руками, необходимо соблюдать этапы строительства, первый из которых будет связан с возведением фундамента. Перед тем как самостоятельно выбрать тип, конструкцию и материал фундамента, необходимо изучить геологические особенности местности, узнать уровень грунтовых вод и отметку промерзания почвы. В зависимости от материала стен и особенностей грунта можно использовать один из следующих материалов для обустройства фундамента:</p><div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
+
+
+<ul>
+<li>готовые железобетонные блоки;</li>
+<li>монолитный железобетон;</li>
+<li>кирпич;</li>
+<li>винтовые сваи;</li>
+<li>столбчатые основания из труб, брёвен, блоков или бетона.</li>
+</ul>
+<h2  id="i-2">Посадка на участке</h2>
+<div id="attachment_3057" class="wp-caption aligncenter" style="max-width: 700px;"><img class="wp-image-3057 size-full" title="При выборе места для дома на участке стоит соблюдать нормативы, которые регулируют расстояния от соседних построек" src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/2-115.jpg" alt="строим дом сами" width="700" height="467" srcset="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/2-115.jpg 700w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/2-115-450x300.jpg 450w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/2-115-300x200.jpg 300w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/2-115-220x147.jpg 220w" sizes="(max-width: 700px) 100vw, 700px"><div class="wp-caption-text">При выборе места для дома на участке стоит соблюдать нормативы, которые регулируют расстояния от соседних построек</div></div>
+<p>При выборе места для дома на участке стоит соблюдать нормативы, которые регулируют расстояния от соседних построек:</p>
+<div class="perelink-block"><style>
+</style>
+<div class="widget-title"><!--noindex-->Рекомендуем к прочтению:<!--/noindex--></div><div class="line"><div class="column"><a href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/karkasnye-doma/karkasnyj-dom-svoimi-rukami-poshagovaya-instrukciya.html"><img src="https://kakpostroitdomic.ru/wp-content/uploads/2016/12/6-16-140x100.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" style="width:140px; height:100px;"><span class="title">Каркасные дома своими руками и пошаговая инструкция</span></a></div></div></div>
+<ol>
+<li>Возведение дома стоит произвести на расстоянии не менее 3-х метров от границы с соседним участком.</li>
+<li>Даже если вы собираетесь строить дом на показ, не стоит располагать его ближе 5 м от границы участка, которая идёт вдоль дороги или проезда.</li>
+<li>Если на соседних участках есть застройка, то необходимо соблюдать минимальные противопожарные разрывы между домами, которые нормируются в зависимости от степени пожаробезопасности сооружения. Так, между двумя кирпичными, каменными или бетонными домами должен быть разрыв не менее 6 м, между деревянной постройкой и каменным домом (кирпичным, газоблочным или бетонным) должно быть не меньше 10 м, между двумя постройками из древесины должен быть выдержан самый большой разрыв, равный 15 м.</li>
+</ol>
+<p>Определившись с посадкой на участке, подобрав оптимальную планировку и выбрав материалы, можно приступать к строительству, соблюдая порядок выполнения работ. Поскольку с выполнением кирпичной или газобетонной кладки проблем возникнуть не должно, мы опишем поэтапно, как построить каркасный дом, ведь этот тип сооружений часто используется в частном строительстве в каждом регионе нашей страны.</p>
+<h2  id="i-3">Возведение фундамента</h2>
+<div id="attachment_3058" class="wp-caption aligncenter" style="max-width: 700px;"><img class="wp-image-3058 size-full" title="Столбчатое основание – самый экономный вариант, который позволит вам сэкономить на стройматериалах и земляных работах" src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/3-105.jpg" alt="как построить дом самому" width="700" height="525" srcset="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/3-105.jpg 700w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/3-105-400x300.jpg 400w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/3-105-300x225.jpg 300w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/3-105-196x147.jpg 196w" sizes="(max-width: 700px) 100vw, 700px"><div class="wp-caption-text">Столбчатое основание – самый экономный вариант, который позволит вам сэкономить на стройматериалах и земляных работах</div></div>
+<p>Строить каркасный дом самостоятельно довольно выгодно, ведь благодаря лёгкому стеновому материалу вы можете сэкономить на обустройстве фундамента. В этом случае вы можете использовать одну из двух конструкций:</p>
+<ul>
+<li>Столбчатое основание – самый экономный вариант, который позволит вам сэкономить на стройматериалах и земляных работах.</li>
+<li>Также для этого сооружения подойдёт мелкозаглублённый ленточный фундамент. Однако вам понадобится значительно большее количество материалов и время на выполнение работы. Всё дело в том, что нужно будет вырыть траншею под всеми наружными и внутренними несущими стенами, выполнить его гидроизоляцию установить опалубку, арматурный каркас и залить всё бетоном. После этого нужно выждать 28 дней, прежде чем вести дальнейшие работы.</li>
+</ul>
+<p>Монтаж столбчатого основания выполняется в такой последовательности:</p><div class='code-block code-block-4' style='margin: 8px 0; clear: both;'>
+<!--noindex-->
+<!-- Yandex.RTB R-A-219772-14 -->
+<div id="yandex_rtb_R-A-219772-14"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-219772-14",
+                renderTo: "yandex_rtb_R-A-219772-14",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<!--/noindex-->
+
+</div>
+
+<ol>
+<li>После подготовки участка и разбивки на местности копаются ямы под столбы. Глубина ямы зависит от типа грунта. На пучинистых почвах, суглинках и супесях подошву столба лучше делать не выше точки промерзания грунта. Во всех остальных случаях достаточно ямы глубиной 40-70 см. Габариты ямы в плане зависят от материала столбов. Проще всего выполнить столбики из бетонных блоков.</li>
+<li>На дне ямы делается песчаная подушка высотой 10 см. Песок после смачивания водой трамбуется.</li>
+<li>Затем выполняется кладка столба из блоков. Элементы укладываются на цементный раствор.</li>
+<li>Для выполнения вертикальной гидроизоляции столб обмазывается двумя слоями битума.</li>
+<li>Горизонтальная гидроизоляция делается из двух слоёв рубероида.</li>
+</ol>
+<h2  id="i-4">Обустройство каркасной конструкции стен</h2>
+<div id="attachment_3059" class="wp-caption aligncenter" style="max-width: 700px;"><img class="wp-image-3059 size-full" title="Перед тем как построить дом из древесины, необходимо самому обработать все деревянные элементы конструкций антисептиками и антипиренами" src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/4-101.jpg" alt="как построить свой дом " width="700" height="525" srcset="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/4-101.jpg 700w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/4-101-400x300.jpg 400w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/4-101-300x225.jpg 300w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/4-101-196x147.jpg 196w" sizes="(max-width: 700px) 100vw, 700px"><div class="wp-caption-text">Перед тем как построить дом из древесины, необходимо самому обработать все деревянные элементы конструкций антисептиками и антипиренами</div></div>
+<p>Перед тем как построить дом из древесины, необходимо самому обработать все деревянные элементы конструкций антисептиками и антипиренами, чтобы защитить их от гнили и плесени, а также возгорания.</p>
+<p>Для выполнения каркаса деревянного дома используются следующие брусья:</p>
+<div class="perelink-block"><style>
+</style>
+<div class="widget-title"><!--noindex-->Рекомендуем к прочтению:<!--/noindex--></div><div class="line"><div class="column"><a href="https://kakpostroitdomic.ru/stroitelnye-materialy/iz-kakogo-materiala-stroit-dom-luchshe.html"><img src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-119-140x100.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" style="width:140px; height:100px;"><span class="title">Из каких материалов лучше строить дома?</span></a></div></div></div>
+<ul>
+<li>Для нижней обвязки стоит взять элемент сечением 100х150 мм.</li>
+<li>Для верхней обвязки – брус 100х100 мм.</li>
+<li>Для стоек фронтона – 50х100 мм.</li>
+<li>В качестве боковых стоек используют брус сечением 100х100 мм.</li>
+<li>Балки перекрытия делают из бруса 80х100 мм.</li>
+</ul>
+<p>Монтаж каркаса стен выполняют в такой последовательности:</p>
+<ol>
+<li>На столбчатое основание укладывается брус нижней обвязки и крепится к нему анкерами.</li>
+<li>На опорные балки монтируются бруски венца. Они укладываются по периметру фундамента с шагом 60-70 см. На брусе нижней обвязки элементы фиксируются методом врезки или при помощи стальных уголков.</li>
+<li>После этого приступают к сборке каркаса стен. Бруски фиксируются на нижней обвязке при помощи мощных стальных уголков, которые способны надёжно удержать брус в вертикальном положении.</li>
+<li>Вертикальные стойки монтируются по краям оконных и дверных проёмов.</li>
+<li>Теперь фиксируется брус верхней обвязки.</li>
+<li>После сборки каркаса четырёх стен боковые угловые стойки скрепляются друг с другом посредством уголков. Эти стойки дополнительно подпираются диагональными подкосами с каждой стороны. Это придаст всей конструкции жёсткость.</li>
+<li>Дверные и оконные проёмы укрепляются дополнительными стойками, поскольку здесь будут фиксироваться конструкции дверей или окон.</li>
+<li>Теперь можно приступать к зашивке стен листовыми древесными материалами (ОСП, ДСП или влагостойкой фанерой). Между стойками каркаса закладывается выбранный теплоизоляционный материал.</li>
+<li>Затем укладывают балки перекрытия. Они монтируются на верхний обвязочный пояс точно над местом установки вертикальных стоек каркаса. Для плотной укладки в балках выпиливаются пазы. Для дополнительной фиксации используются гвозди, саморезы и стальные уголки.</li>
+<li>Чтобы дальнейшие работы по обустройству кровли было проще вести, на балках перекрытия выполняется временный дощатый настил.</li>
+</ol>
+<h2  id="i-5">Монтаж крыши</h2>
+<div id="attachment_3060" class="wp-caption aligncenter" style="max-width: 700px;"><img class="wp-image-3060 size-full" title="Крайние пары стропил скрепляются на земле, после этого они поднимаются и устанавливаются на обвязке " src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/5-59.jpg" alt="строительство дома от а до я" width="700" height="466" srcset="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/5-59.jpg 700w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/5-59-451x300.jpg 451w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/5-59-300x200.jpg 300w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/5-59-220x147.jpg 220w" sizes="(max-width: 700px) 100vw, 700px"><div class="wp-caption-text">Крайние пары стропил скрепляются на земле, после этого они поднимаются и устанавливаются на обвязке</div></div>
+<p>При монтаже стропильной системы можно использовать одну из трёх последовательностей действия:</p>
+<ul>
+<li>Крайние пары стропил скрепляются на земле, после этого они поднимаются и устанавливаются на обвязке в месте выполнения фронтона дома. Между собой две пары стропильных ног соединяются коньковым брусом. После этого на коньковую балку монтируются остальные стропила с равным шагом.</li>
+<li>Второй вариант монтажа начинается с центральных стоек фронтонов. После установки они скрепляются с коньковым брусом, к которому впоследствии будут фиксироваться стропильные ноги.</li>
+<li>Ещё одни способ монтажа выполняется так, что пары стропил в верхней части соединяются коньковой накладкой, а их нижняя часть крепится к обвязке, выполняющей функции мауэрлата.</li>
+</ul>
+<p>После выполнения каркаса крыши работу по монтажу ведут в таком порядке:</p>
+<ol>
+<li>На скаты, сформированные стропилами, укладывают пароизоляционную плёнку, которая крепится посредством скоб и прижимается планками контробрешётки к стропилам. Плёнку стоит настилать поперёк стропил, начиная снизу. Перехлёст соседних полос равен 20 см.</li>
+<li>Перпендикулярно к рейкам контробрешётки устанавливается обрешётка. Шаг установки направляющих обычно равен 30-40 см. Если в качестве кровельного покрытия будет использоваться гибкий рулонный материал, то выполняется сплошная обрешётка из ОСП.</li>
+<li>После этого можно настилать выбранный кровельный материал.</li>
+<li>С внутренней стороны крыша утепляется. Для этого между стропильными ногами закладывается теплоизоляционный материал (минвата).</li>
+<li>Затем утеплитель накрывается слоем гидроизоляции, которая крепится скобами к стропилам.</li>
+<li>После этого крышу можно подшивать вагонкой, ДСП, фанерой или ОСП.</li>
+<li>Карнизный свес можно подшить деревянной или пластиковой вагонкой. Вместо них можно использовать специальные пластиковые софиты.</li>
+<li>На ветровой доске устанавливается система водоотведения крыши.</li>
+<li>Каркас фронтона зашивается и утепляется так же, как и стены.</li>
+</ol>
+<h2  id="i-6">Монтаж пола</h2>
+<div id="attachment_3061" class="wp-caption aligncenter" style="max-width: 700px;"><img class="wp-image-3061 size-full" title="После установки оконных и дверных блоков можно приступить к монтажу и утеплению конструкции пола" src="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/6-36.jpg" alt="как построить дом самостоятельно" width="700" height="466" srcset="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/6-36.jpg 700w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/6-36-451x300.jpg 451w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/6-36-300x200.jpg 300w, https://kakpostroitdomic.ru/wp-content/uploads/2016/11/6-36-220x147.jpg 220w" sizes="(max-width: 700px) 100vw, 700px"><div class="wp-caption-text">После установки оконных и дверных блоков можно приступить к монтажу и утеплению конструкции пола</div></div>
+<p>После установки оконных и дверных блоков можно приступить к монтажу и утеплению конструкции пола:</p>
+<ol>
+<li>Прежде всего, на каркасные балки крепятся черепные бруски. Они нужны для укладки на них досок чернового пола.</li>
+<li>После этого на черепные бруски укладываются доски чернового пола или фанера толщиной 8-10 мм.</li>
+<li>Далее поверх чернового пола, огибая балки, расстилается гидроизоляционная мембрана. Материал укладывается внахлёст (15-20 см), стыки проклеиваются скотчем.</li>
+<li>После этого между балками на плёнку кладём выбранный теплоизоляционный материал. Его толщина должна быть равна толщине балок.</li>
+<li>Поверх вся конструкция застилается ещё одним слоем пароизоляции. Она крепится к несущим балкам скобами.</li>
+<li>После этого пол выравнивается фанерой или деревянными половицами.</li>
+<li>Поверх можно укладывать выбранное напольное покрытие.</li>
+<li>Теперь вы можете возвестить свою семью об окончании строительства.</li>
+</ol>
+<p class="video"><div class="post__video"><iframe src="https://www.youtube.com/embed/osiFwgkFyKE" width="640" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p></index><div class='code-block code-block-6' style='margin: 8px 0; clear: both;'>
+<!--noindex-->
+<!-- Yandex.RTB R-A-219772-15 -->
+<div id="yandex_rtb_R-A-219772-15"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-219772-15",
+                renderTo: "yandex_rtb_R-A-219772-15",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<!--/noindex--></div>
+									</div><!-- .post__entry -->
+			</article><!-- .post -->
+        <!--noindex-->
+					<div class="post-rating">
+				<div class="post-rating__title">Помогите нам стать лучше! Оцените качество подачи материала</div>
+				<div class="post-rating__rate"><div id="post-ratings-3014" class="post-ratings" itemscope itemtype="http://schema.org/Article" data-nonce="ae96d37329"><img id="rating_3014_1" src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/stars_custom/rating_off.gif" alt="" title="" onmouseover="current_rating(3014, 1, '');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_3014_2" src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/stars_custom/rating_off.gif" alt="" title="" onmouseover="current_rating(3014, 2, '');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_3014_3" src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/stars_custom/rating_off.gif" alt="" title="" onmouseover="current_rating(3014, 3, '');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_3014_4" src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/stars_custom/rating_off.gif" alt="" title="" onmouseover="current_rating(3014, 4, '');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_3014_5" src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/stars_custom/rating_off.gif" alt="" title="" onmouseover="current_rating(3014, 5, '');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><meta itemprop="headline" content="Строительство дома своими руками: поэтапный показ" /><meta itemprop="description" content="Если вы решили выполнить строительство дома своими руками, то на каждом этапе у вас может возникнуть множество вопросов, ответы на которые вы сможете найти в нашей статье. Для частного застройщика, решившего вести все работы своими руками, важно не только понимать последовательность работ и знать тонкости их выполнения." /><meta itemprop="datePublished" content="2016-11-23T19:51:20+00:00" /><meta itemprop="dateModified" content="2016-11-26T16:09:48+00:00" /><meta itemprop="url" content="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html" /><meta itemprop="author" content="glav-user" /><meta itemprop="mainEntityOfPage" content="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/stroim-dom-svoimi-rukami-poetapnyj-pokaz-stroitelstva.html" /><div style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://kakpostroitdomic.ru/wp-content/uploads/2016/11/1-122-250x150.jpg" /><meta itemprop="width" content="250" /><meta itemprop="height" content="150" /></div><div style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Строительство и ремонт частных домов и коттеджей своими руками" /><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="" /></div></div></div><div id="post-ratings-3014-loading" class="post-ratings-loading">
+			<img src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" class="post-ratings-image" /> Загрузка...</div></div>
+			</div><!-- .post-rating -->
+		        <!--/noindex-->
+			<div class='yarpp-related'>
+<div class="related">
+	<div class="items">
+			<div class="item">
+
+	<div class="item__image"><picture><source media="(max-width: 767px)" srcset="/wp-content/themes/sreda-design-nocat/cache/64628c4d8_442x250.png"><img src="/wp-content/themes/sreda-design-nocat/cache/64628c4d8_250x150.png" width="250" height="150" alt="Каркасные дома своими руками и пошаговая инструкция" /></picture></div>
+
+	<div class="item__cat"><a href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye">Деревянные дома</a></div>
+	<div class="item__title"><a class="item__link" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/karkasnye-doma/karkasnyj-dom-svoimi-rukami-poshagovaya-instrukciya.html">Каркасные дома своими руками и пошаговая инструкция</a></div>
+
+	<a class="item__more" href="https://kakpostroitdomic.ru/stroitelstvo/derevyannye/karkasnye-doma/karkasnyj-dom-svoimi-rukami-poshagovaya-instrukciya.html#more-3713">Читать далее</a>
+
+</div><!-- .item -->			<div class="item">
+
+	<div class="item__image"><picture><source media="(max-width: 767px)" srcset="/wp-content/themes/sreda-design-nocat/cache/3873159dd_442x250.png"><img src="/wp-content/themes/sreda-design-nocat/cache/3873159dd_250x150.png" width="250" height="150" alt="Из каких материалов лучше строить дома?" /></picture></div>
+
+	<div class="item__cat"><a href="https://kakpostroitdomic.ru/stroitelnye-materialy">Строительные материалы</a></div>
+	<div class="item__title"><a class="item__link" href="https://kakpostroitdomic.ru/stroitelnye-materialy/iz-kakogo-materiala-stroit-dom-luchshe.html">Из каких материалов лучше строить дома?</a></div>
+
+	<a class="item__more" href="https://kakpostroitdomic.ru/stroitelnye-materialy/iz-kakogo-materiala-stroit-dom-luchshe.html#more-3020">Читать далее</a>
+
+</div><!-- .item -->			<div class="item">
+
+	<div class="item__image"><picture><source media="(max-width: 767px)" srcset="/wp-content/themes/sreda-design-nocat/cache/8e9e722fe_442x250.png"><img src="/wp-content/themes/sreda-design-nocat/cache/8e9e722fe_250x150.png" width="250" height="150" alt="Инструкция по монтажу монолитного ленточного фундамента" /></picture></div>
+
+	<div class="item__cat"><a href="https://kakpostroitdomic.ru/fundament/lentochnyj-fundament">Ленточный фундамент</a></div>
+	<div class="item__title"><a class="item__link" href="https://kakpostroitdomic.ru/fundament/fundament-svoimi-rukami-video.html">Инструкция по монтажу монолитного ленточного фундамента</a></div>
+
+	<a class="item__more" href="https://kakpostroitdomic.ru/fundament/fundament-svoimi-rukami-video.html#more-258">Читать далее</a>
+
+</div><!-- .item -->		</div><!-- .items -->
+</div><!-- .related -->
+</div>
+
+			<div class="grid">
+                				<div class="comments">
+					
+
+
+
+	
+	
+
+	
+				</div><!-- .comments -->
+
+				
+			</div><!-- .grid -->
+
+
+        <div  id="authors_webnavoz-7475" class="wrap-authors_webnavoz "><div class="rating-authors_webnavoz"><div class="label-rating-authors_webnavoz">Рейтинг автора</div><div class="value-rating-authors_webnavoz">1382</div></div><div class="information-authors_webnavoz"><img width="80" height="80" src="https://kakpostroitdomic.ru/wp-content/uploads/2018/12/ris-31486734142-e1544001590189-80x80.jpg" class="attachment-autor_thumb size-autor_thumb wp-post-image" alt="автор" /><div class="body-info-authors_webnavoz"><div class="label-info-authors_webnavoz">Автор статьи</div><div class="header-info-authors_webnavoz"><div class="name-authors_webnavoz">Валентин Зарепин</div><div class="socials-info-authors_webnavoz"></div></div><div class="desc-info-authors_webnavoz">Специалист по строительным технологиям.</div></div></div><div class="posts-authors_webnavoz"><div class="label-posts-authors_webnavoz">Написано статей</div><div class="value-posts-authors_webnavoz">757</div></div></div>
+        <!--noindex-->
+
+        <div class="ste-postrating">
+            <div class="social_buttons_post">
+                <div class="txt-social"><strong>Расскажите друзьям и коллегам в социальных сетях</strong></div>
+                <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+                <script src="//yastatic.net/share2/share.js"></script>
+                <div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,gplus" data-counter=""></div>
+            </div>
+        </div>
+        <div>
+
+
+        </div>
+
+        <div class="singleTopFooter">
+                    </div>
+        <div id="vk_comments"></div>
+        <script type="text/javascript">
+            VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"});
+        </script>
+
+        <div class='code-block code-block-7' style='margin: 8px 0; clear: both;'>
+<div class="overR">
+<!--noindex-->
+<p class="reks">Реклама</p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Kakpostroitdomic.ru footer 2 -->
+<ins class="adsbygoogle"
+     style="display:block;max-width:720px;height:450px;"
+     data-ad-client="ca-pub-7071017073406853"
+     data-ad-slot="7758076579"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!--/noindex-->
+</div></div>
+
+        <!--/noindex-->
+
+						</main><!-- .content -->
+
+		<aside class="sidebar">
+
+			            											<div class="goods  sidebar__section">
+				<div class="headline">Проекты домов</div>
+				<div class="goods__items">
+								<div class="item-goods">
+
+	<div class="item-goods__image"><img src="/wp-content/themes/sreda-design-nocat/cache/bb7bd845e_110x.png" width="110" alt="Проекты кирпичных коттеджей с цокольным этажом" /></div>
+
+	<div class="item-goods__inner">
+
+		<div class="item-goods__top">
+
+					<div class="rating  item-goods__rating"><div class="rating__current" style="width: 85px"></div></div>
+		
+			<div class="item-goods__reviews">0 отзывов</div>
+
+		</div><!-- .item-goods__top -->
+
+		<div class="item-goods__title"><a class="item-goods__link" href="https://kakpostroitdomic.ru/proekty/kottedzhi/proekty-kottedzhej-iz-kirpicha-s-cokolnym-etazhom.html">Проекты кирпичных коттеджей с цокольным этажом</a></div>
+
+		<div class="item-goods__bottom">
+
+		
+							<div class="item-goods__likes">3</div>
+			
+		</div><!-- .item-goods__bottom -->
+
+	</div><!-- .item-goods__inner -->
+
+</div><!-- .item -->								<div class="item-goods">
+
+	<div class="item-goods__image"><img src="/wp-content/themes/sreda-design-nocat/cache/92b2626f0_110x.png" width="110" alt="Проекты и строительство домов из арболита" /></div>
+
+	<div class="item-goods__inner">
+
+		<div class="item-goods__top">
+
+					<div class="rating  item-goods__rating"><div class="rating__current" style="width: 85px"></div></div>
+		
+			<div class="item-goods__reviews">0 отзывов</div>
+
+		</div><!-- .item-goods__top -->
+
+		<div class="item-goods__title"><a class="item-goods__link" href="https://kakpostroitdomic.ru/stroitelstvo/bloki/proekty-domov-iz-arbolita.html">Проекты и строительство домов из арболита</a></div>
+
+		<div class="item-goods__bottom">
+
+		
+							<div class="item-goods__likes">2</div>
+			
+		</div><!-- .item-goods__bottom -->
+
+	</div><!-- .item-goods__inner -->
+
+</div><!-- .item -->								<div class="item-goods">
+
+	<div class="item-goods__image"><img src="/wp-content/themes/sreda-design-nocat/cache/d241ee541_110x.png" width="110" alt="Фото проектов двухэтажных домов и коттеджей" /></div>
+
+	<div class="item-goods__inner">
+
+		<div class="item-goods__top">
+
+					<div class="rating  item-goods__rating"><div class="rating__current" style="width: 85px"></div></div>
+		
+			<div class="item-goods__reviews">0 отзывов</div>
+
+		</div><!-- .item-goods__top -->
+
+		<div class="item-goods__title"><a class="item-goods__link" href="https://kakpostroitdomic.ru/proekty/kottedzhi/proekty-dvuxetazhnyx-domov-i-kottedzhej-foto.html">Фото проектов двухэтажных домов и коттеджей</a></div>
+
+		<div class="item-goods__bottom">
+
+		
+							<div class="item-goods__likes">2</div>
+			
+		</div><!-- .item-goods__bottom -->
+
+	</div><!-- .item-goods__inner -->
+
+</div><!-- .item -->							</div><!-- .goods__items -->
+				<div class="goods__all"><a href="https://kakpostroitdomic.ru/proekty">Смотреть все</a></div>
+			</div><!-- .goods -->
+			
+											<div class="video  sidebar__section">
+
+	<div class="category__head">
+		<div class="headline">Смета и расчет</div>
+		<a class="category__all" href="https://kakpostroitdomic.ru/proektnaya-dokumentaciya/smeta-i-raschet">Смотреть все</a>
+	</div><!-- .category__head -->
+
+	<div class="video__in">
+
+		<div class="video__image"><img src="/wp-content/themes/sreda-design-nocat/cache/97c6ab4fb_442x278.png" width="442" height="278" alt="Составление сметы на строительство дома из бруса" /></div>
+
+		<div class="video__inner">
+
+			<div class="video__title"><a class="video__link" href="https://kakpostroitdomic.ru/proektnaya-dokumentaciya/smeta-i-raschet/smeta-na-stroitelstvo-doma-iz-brusa.html">Составление сметы на строительство дома из бруса</a></div>
+
+			<div class="video__text">Любое строительство после создания проекта дома должно опираться на сметную документацию. Именно смета на строительство дома из бруса, равно как и дома из любого другого материала, позволяет предупредить возможные простои в работе, очертив близкую к итоговой сумму затрат на выполнение всех этапов монтажа.</div>
+
+		</div><!-- .video__inner -->
+
+	</div><!-- .video__in -->
+
+</div><!-- .video -->
+						            <div class="sidebar__section  sidebar__widget" id="ai_widget-3"><div class='code-block code-block-10' style='margin: 8px 0; clear: both;'>
+<!-- KakPostroitDomic.ru sidebar низ 2 -->
+<div class="SidebarBottomAdv2">
+<!-- Yandex.RTB R-A-219772-2 -->
+<div id="yandex_rtb_R-A-219772-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-219772-2",
+                renderTo: "yandex_rtb_R-A-219772-2",
+                horizontalAlign: false,
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div></div>
+</div><!-- .sidebar__section -->
+
+		</aside><!-- .sidebar -->	</div><!-- .middle -->
+
+	<footer id="hfooter" class="footer">
+		<div class="footer__inner">
+
+			<div class="footer__section  copyright">
+
+				<div class="copyright__domain">
+<!--					<div class="copyright__logo"><img src="--><!--" alt="" /></div>-->
+					KakPostroit<span>domic.ru</span>
+				</div>
+
+				<div class="copyright__text">
+					© 2018–2019 – Экспертное сообщество по строительству и ремонту домов				</div>
+
+			</div><!-- .copyright -->
+
+			
+					<nav class="footer__section  footer__nav"><ul><li id="menu-item-4665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4665"><a title="Интернет-издание KakPostroitDomic.ru" href="https://kakpostroitdomic.ru/o-proekte">О проекте</a></li>
+<li id="menu-item-1760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1760"><a title="Вопрос эксперту" href="https://kakpostroitdomic.ru/vopros-ekspertu">Вопрос эксперту</a></li>
+<li id="menu-item-4591" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4591"><a title="Пректы домов" href="https://kakpostroitdomic.ru/proekty">Проекты</a></li>
+<li id="menu-item-4646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4646"><a title="Контакты" href="https://kakpostroitdomic.ru/kontakty">Контакты</a></li>
+</ul></nav>
+				
+			<div class="footer__section  footer__mid">
+
+			
+							<div class="counters">
+					<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter39818640 = new Ya.Metrika({
+                    id:39818640,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/39818640" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--аналитикс-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36937913-3', 'auto');
+  ga('send', 'pageview');
+
+</script>                 
+<!--/аналитикс-->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2833444", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2833444;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 4454423
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript><img src="//counter.rambler.ru/top100.cnt?pid=4454423"></noscript>
+<!-- END Top100 (Kraken) Counter -->
+				</div><!-- .counters -->
+			
+			</div><!-- .footer__mid -->
+
+			<div class="footer__section  footer__info">
+
+                <!--noindex--><p>Перепечатка материалов разрешена только с указанием индексируемой ссылки на первоисточник</p><!--/noindex-->
+
+				<div class="footer__privacy"><a href="https://kakpostroitdomic.ru/politika-konfidentsialnosti">Политика конфиденциальности</a></div>
+			</div><!-- .footer__info -->
+
+			<p class="footer__section  footer__design">&nbsp;</p>
+
+		</div><!-- .footer__inner -->
+	</footer><!-- .footer -->
+
+</div><!-- .wrapper -->
+</div><!-- .container -->
+
+<script>
+  var ai_insert_11 = function(){
+    ai_insert ('after', '.SameFirst', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTExIGFpLXZpZXdwb3J0LTEnIHN0eWxlPSdtYXJnaW46IDhweCAwOyBjbGVhcjogYm90aDsnPgo8IS0tbm9pbmRleC0tPg0KPCEtLSBZYW5kZXguUlRCIFItQS0yMTk3NzItNyAtLT4NCjxkaXYgaWQ9InlhbmRleF9ydGJfUi1BLTIxOTc3Mi03Ij48L2Rpdj4NCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCiAgICAoZnVuY3Rpb24odywgZCwgbiwgcywgdCkgew0KICAgICAgICB3W25dID0gd1tuXSB8fCBbXTsNCiAgICAgICAgd1tuXS5wdXNoKGZ1bmN0aW9uKCkgew0KICAgICAgICAgICAgWWEuQ29udGV4dC5BZHZNYW5hZ2VyLnJlbmRlcih7DQogICAgICAgICAgICAgICAgYmxvY2tJZDogIlItQS0yMTk3NzItNyIsDQogICAgICAgICAgICAgICAgcmVuZGVyVG86ICJ5YW5kZXhfcnRiX1ItQS0yMTk3NzItNyIsDQogICAgICAgICAgICAgICAgaG9yaXpvbnRhbEFsaWduOiBmYWxzZSwNCiAgICAgICAgICAgICAgICBhc3luYzogdHJ1ZQ0KICAgICAgICAgICAgfSk7DQogICAgICAgIH0pOw0KICAgICAgICB0ID0gZC5nZXRFbGVtZW50c0J5VGFnTmFtZSgic2NyaXB0IilbMF07DQogICAgICAgIHMgPSBkLmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpOw0KICAgICAgICBzLnR5cGUgPSAidGV4dC9qYXZhc2NyaXB0IjsNCiAgICAgICAgcy5zcmMgPSAiLy9hbi55YW5kZXgucnUvc3lzdGVtL2NvbnRleHQuanMiOw0KICAgICAgICBzLmFzeW5jID0gdHJ1ZTsNCiAgICAgICAgdC5wYXJlbnROb2RlLmluc2VydEJlZm9yZShzLCB0KTsNCiAgICB9KSh0aGlzLCB0aGlzLmRvY3VtZW50LCAieWFuZGV4Q29udGV4dEFzeW5jQ2FsbGJhY2tzIik7DQo8L3NjcmlwdD4NCjwhLS0vbm9pbmRleC0tPjwvZGl2Pgo='));
+  };
+  if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) ai_insert_11 (); else document.addEventListener ('DOMContentLoaded', ai_insert_11);
+</script>
+<script>
+  var ai_insert_12 = function(){
+    ai_insert ('after', '.SameFirst', b64d ('PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTEyIGFpLXZpZXdwb3J0LTIgYWktdmlld3BvcnQtMycgc3R5bGU9J21hcmdpbjogOHB4IDA7IGNsZWFyOiBib3RoOyc+CjwhLS1ub2luZGV4LS0+DQo8IS0tIFlhbmRleC5SVEIgUi1BLTIxOTc3Mi04IC0tPg0KPGRpdiBpZD0ieWFuZGV4X3J0Yl9SLUEtMjE5NzcyLTgiPjwvZGl2Pg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KICAgIChmdW5jdGlvbih3LCBkLCBuLCBzLCB0KSB7DQogICAgICAgIHdbbl0gPSB3W25dIHx8IFtdOw0KICAgICAgICB3W25dLnB1c2goZnVuY3Rpb24oKSB7DQogICAgICAgICAgICBZYS5Db250ZXh0LkFkdk1hbmFnZXIucmVuZGVyKHsNCiAgICAgICAgICAgICAgICBibG9ja0lkOiAiUi1BLTIxOTc3Mi04IiwNCiAgICAgICAgICAgICAgICByZW5kZXJUbzogInlhbmRleF9ydGJfUi1BLTIxOTc3Mi04IiwNCiAgICAgICAgICAgICAgICBob3Jpem9udGFsQWxpZ246IGZhbHNlLA0KICAgICAgICAgICAgICAgIGFzeW5jOiB0cnVlDQogICAgICAgICAgICB9KTsNCiAgICAgICAgfSk7DQogICAgICAgIHQgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJzY3JpcHQiKVswXTsNCiAgICAgICAgcyA9IGQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7DQogICAgICAgIHMudHlwZSA9ICJ0ZXh0L2phdmFzY3JpcHQiOw0KICAgICAgICBzLnNyYyA9ICIvL2FuLnlhbmRleC5ydS9zeXN0ZW0vY29udGV4dC5qcyI7DQogICAgICAgIHMuYXN5bmMgPSB0cnVlOw0KICAgICAgICB0LnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHMsIHQpOw0KICAgIH0pKHRoaXMsIHRoaXMuZG9jdW1lbnQsICJ5YW5kZXhDb250ZXh0QXN5bmNDYWxsYmFja3MiKTsNCjwvc2NyaXB0Pg0KPCEtLS9ub2luZGV4LS0+PC9kaXY+Cg=='));
+  };
+  if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) ai_insert_12 (); else document.addEventListener ('DOMContentLoaded', ai_insert_12);
+</script>
+<script>
+setTimeout (function() {Array.prototype.forEach.call (document.querySelectorAll (".ai-viewports"), function (element, index) {ai_insert_code (element);});}, 10);
+
+</script>
+<script type="text/javascript">var pseudo_links = document.querySelectorAll(".pseudo-clearfy-link");for (var i=0;i<pseudo_links.length;i++ ) { pseudo_links[i].addEventListener("click", function(e){   window.open( e.target.getAttribute("data-uri") ); }); }</script>
+
+    <style type="text/css">
+
+        @media screen and (max-device-width: 360px) {
+
+            #wpfront-scroll-top-container {
+                visibility: hidden;
+            }
+
+        }
+
+    </style>
+
+    <div id="wpfront-scroll-top-container">
+        <img src="https://kakpostroitdomic.ru/wp-content/plugins/wpfront-scroll-top/images/icons/54.png" alt="дом" />    </div>
+    <script type="text/javascript">function wpfront_scroll_top_init() {if(typeof wpfront_scroll_top == "function" && typeof jQuery !== "undefined") {wpfront_scroll_top({"scroll_offset":100,"button_width":0,"button_height":0,"button_opacity":0.8,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":"on","auto_hide":false,"auto_hide_after":2,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0});} else {setTimeout(wpfront_scroll_top_init, 100);}}wpfront_scroll_top_init();</script><script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/autors-by-webnavoz/js/scripts-autors.js?ver=1.108'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/kakpostroitdomic.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/multi-perelink/js/multi-perelink.js?ver=180428-161100'></script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/kakpostroitdomic.ru\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/kakpostroitdomic.ru\/wp-admin\/admin-ajax.php","text_wait":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043d\u0435 \u0433\u043e\u043b\u043e\u0441\u0443\u0439\u0442\u0435 \u0437\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e.","image":"stars_custom","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/images/stars_custom/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.86.2'></script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Le9jaAUAAAAAGqm-jp6FtrZZDEzyhhhHythG0-Z&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/themes/sreda-design-nocat/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar","margin_top":10,"margin_bottom":600,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["ai_widget-3"]}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9'></script>
+<script type='text/javascript' src='https://kakpostroitdomic.ru/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6Le9jaAUAAAAAGqm-jp6FtrZZDEzyhhhHythG0-Z',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+</body>
+</html>
